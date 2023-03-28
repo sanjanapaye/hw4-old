@@ -1,6 +1,10 @@
 #ifndef RECCHECK
 //if you want to add any #includes like <iostream> you must do them here (before the next endif)
+<<<<<<< HEAD
 
+=======
+#include <iostream>
+>>>>>>> 1d1e3497695d66220484c21ead087565c758d0e1
 #endif
 
 #include "equal-paths.h"
@@ -8,6 +12,10 @@ using namespace std;
 
 
 // You may add any prototypes of helper functions here
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1d1e3497695d66220484c21ead087565c758d0e1
 int count(Node* root)
 {
 if( root == NULL ) return 0;
